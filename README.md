@@ -6,9 +6,9 @@ Laboratorio de Git - Entornos de Desarrollo (0487) - DAM - Plaiaundi LHII-CIFP
 
 | Rol | Nombre | Usuario GitHub | Rama |
 |-----|--------|----------------|------|
-| Persona A (coordinacion + suma) | | | feature/suma |
-| Persona B (resta) | | | feature/resta |
-| Persona C (multiplicacion) | | | feature/multiplicacion |
+| Persona A (coordinacion + suma) | Julen Valbuena | JulenValbu | feature/suma |
+| Persona B (resta) | Mikel Echeveste | Echeveste97 | feature/resta |
+| Persona C (multiplicacion) | Aritz Perez | | feature/multiplicacion |
 
 ## Como compilar y probar
 
